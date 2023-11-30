@@ -12,6 +12,7 @@ I am passionate about Wireless Communication. With a background in M.Sc. Communi
 - **Technologies:** [Wireless Communications (LTE, 5G, etc.)]
 - **Tools:** [Network Simulator 3]
 - **Languages** [English, Mandarin Chinese, Swedish(learning)]
+
 <!-- 
 ## Projects
 
