@@ -18,14 +18,11 @@ I am passionate about Wireless Communication. With a background in M.Sc. Communi
 
 Here are some projects I'm currently working on or have completed:
 
-1. **[Project Name]** - Brief description.
-   - [GitHub Repository Link]
-   - [Live Demo Link, if applicable]
+1. **Cell-Free-Massive-MIMO** - Communications Systems Design Course Project
+   - https://github.com/wenjianma/Cell-Free-Massive-MIMO
 
-2. **[Project Name]** - Brief description.
-   - [GitHub Repository Link]
-   - [Live Demo Link, if applicable]
-     
+2. **Millimeter-wave-intelligent-beam-management** - Bachelor Degree Project
+   - https://github.com/wenjianma/Millimeter-wave-intelligent-beam-management
 
 Feel free to explore my repositories for more projects!
 
