@@ -13,7 +13,7 @@ I am passionate about Wireless Communication. With a background in M.Sc. Communi
 - **Tools:** [Network Simulator 3]
 - **Languages** [English, Mandarin Chinese, Swedish(learning)]
 
-<!-- 
+
 ## Projects
 
 Here are some projects I'm currently working on or have completed:
@@ -25,25 +25,29 @@ Here are some projects I'm currently working on or have completed:
 2. **[Project Name]** - Brief description.
    - [GitHub Repository Link]
    - [Live Demo Link, if applicable]
--->
+     
 
 Feel free to explore my repositories for more projects!
 
-<!-- 
-## Connect with Me
 
+## Connect with Me
+<!-- 
 - 🌐 [Personal Website or Blog]
+-->
 - 📧 [MyEmail](wenjian_ma@outlook.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/wenjian-ma-william/)
--->
 
+<!-- 
 ## GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&hide_border=true)
+-->
 
+<!-- 
 ## Contributions
 
 I'm actively contributing to [Open Source Project/Organization], and you can find my contributions on my profile.
+-->
 
 Thanks for stopping by! Feel free to reach out and connect.
 
